@@ -1,0 +1,8 @@
+
+{
+  "name": "NutrientGuard",
+  "description": "A comprehensive nutrition tracking application featuring AI-powered food recognition and an extensive database of Pakistani cuisine. Toggle between 'Live AI' for instant image analysis and 'Manual Entry' for offline tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
